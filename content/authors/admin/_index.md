@@ -5,9 +5,10 @@ avatar_filename: cv_foto.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Macroeconomics
+  - Labor Economics
+  - Search Theory
+  - Monetary Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,19 +32,19 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Zurich
+    url: https://www.uzh.ch/en.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Zurich
+      year: ""
+    - course: MSc in Economics
+      institution: University of Bologna
+      year: ""
+    - course: BSc in Economics, Markets, and Institutions
+      institution: University of Bologna
+      year: ""
 superuser: true
 status:
   icon: ☕️
@@ -52,6 +53,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+Welcome to my webpage! I'm a PhD candidate in Economics at the University of Zurich.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
