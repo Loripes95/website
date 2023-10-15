@@ -42,10 +42,10 @@ education:
       year: ""
     - course: MSc in Economics
       institution: University of Bologna
-      year: ""
+      year: 2019
     - course: BSc in Economics, Markets, and Institutions
       institution: University of Bologna
-      year: ""
+      year: 2017
 superuser: true
 status:
   icon: ☕️
