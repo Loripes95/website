@@ -1,6 +1,7 @@
 ---
 title: Lorenzo Pesaresi
 role: PhD Candidate in Economics
+avatar_filename: cv_foto.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
