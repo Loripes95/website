@@ -46,7 +46,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: lorenzo.pesaresi@econ.uzh.ch
 ---
 I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). 
 
