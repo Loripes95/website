@@ -22,10 +22,10 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lorenzo-pesaresi-2067b4153/?originalSubdomain=ch
+    link: https://www.linkedin.com/in/lorenzo-pesaresi-2067b4153?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACT1myYBiTvsaDLnvESIoxm9thHPkf-UKlA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BMAlcG3nVT9iUXjFozgs6Tw%3D%3D
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/preview/CV.pdf
+    link: C:\Users\lpesar\Dropbox/CV.pdf
 organizations:
   - name: University of Zurich
     url: https://www.uzh.ch/en.html
