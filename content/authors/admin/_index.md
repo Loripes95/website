@@ -32,14 +32,14 @@ organizations:
 education:
   courses:
     - course: PhD in Economics
-      institution: University of Zurich
+      institution: University of Zurich, 2019-present
       year: ""
     - course: MSc in Economics
-      institution: University of Bologna
-      year: 2019
+      institution: University of Bologna, 2017-2019
+      year: ""
     - course: BSc in Economics, Markets, and Institutions
-      institution: University of Bologna
-      year: 2017
+      institution: University of Bologna, 2014-2017
+      year: ""
 superuser: true
 status:
   icon: ☕️
