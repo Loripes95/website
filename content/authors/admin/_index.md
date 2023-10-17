@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/lorenzo-pesaresi/
   - icon: cv
     icon_pack: ai
-    link: https://www.linkedin.com/in/lorenzo-pesaresi/
+    link: https://www.dropbox.com/preview/CV.pdf
 organizations:
   - name: University of Zurich
     url: https://www.uzh.ch/en.html
@@ -48,6 +48,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). 
+I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). 
 
 {style="text-align: justify;"}
