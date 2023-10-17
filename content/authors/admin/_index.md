@@ -22,7 +22,7 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lorenzo-pesaresi/
+    link: https://www.linkedin.com/in/lorenzo-pesaresi-2067b4153/?originalSubdomain=ch
   - icon: cv
     icon_pack: ai
     link: https://www.dropbox.com/preview/CV.pdf
