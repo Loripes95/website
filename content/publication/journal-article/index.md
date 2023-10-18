@@ -1,5 +1,5 @@
 ---
-title: "Equilibrium Effects of the Minimum Wage: The Role or Firms' Market Power"
+title: "Equilibrium Effects of the Minimum Wage: The Role of Firms' Market Power"
 authors:
 - Salvatore Lo Bello
 - admin
