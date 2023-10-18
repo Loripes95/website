@@ -70,9 +70,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Teaching Assistant
-          company: University od Zurich
+          company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
-          company_logo: org-gc
+          company_logo: UZH_logo
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
           date_end: ''
