@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Equilibrium Effects of the Minimum Wage: The Role or Firms' Market Power"
 authors:
+- Salvatore Lo Bello
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Bank of Italy"
+- "University of Zurich"
+date: "2023-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Working Paper*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study the role of product market power in the equilibrium effects of the minimum wage. Higher minimum wages are known to induce workers' reallocation from small to larger firms. If firms set prices strategically, they optimally respond to larger market shares by raising their markups. We call this novel mechanism \textit{concentration channel} of the minimum wage. We show that product market power can overturn the commonly-held view that higher minimum wages boost the aggregate labor share. On the one hand, the minimum wage pushes the labor share up by compressing firms' monopsony power on the labor market. On the  other hand, the concentration channel depresses the labor share by fuelling firms' monopoly power on the product market. Consistently with our theory, we document on Italian balance-sheet data that the firm-level labor share response to higher sectoral minimum wages is decreasing in product market concentration. To quantify the aggregate labor share response, we construct a novel structural model embedding frictional labor markets and oligopolistically-competitive product markets. We estimate the model on Italian social security data replicating key labor market statistics for different worker types and the detailed structure of sectoral product markets. We find that the labor share is hump-shaped in the level of minimum wage with a peak around the median wage. Our results stress the importance of factoring in product market power for a correct evaluation of minimum wage reforms.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
