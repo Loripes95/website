@@ -1,7 +1,11 @@
 ---
 title: "Equilibrium Effects of the Minimum Wage: The Role of Firms' Market Power"
 authors:
+- Salvatore Lo Bello
 - admin
+author_notes:
+- "Bank of Italy"
+- "University of Zurich"
 date: "2023-04-07T00:00:00Z"
 doi: ""
 
