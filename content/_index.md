@@ -85,7 +85,7 @@ sections:
         - title: Graduate Research Intern
           company: Bank of Italy
           company_url: ''
-          company_logo: org-x
+          company_logo: BdI_logo
           location: Rome (Italy)
           date_start: '2021-06-01'
           date_end: '2022-09-31'
