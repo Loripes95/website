@@ -33,19 +33,19 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Zurich
-      year: ""
+      year: "2019-present"
     - course: MSc in Economics
       institution: University of Bologna
-      year: ""
+      year: "2017-2019"
     - course: BSc in Economics, Markets, and Institutions
       institution: University of Bologna
-      year: ""
+      year: "2014-2017"
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Pesaresi
 highlight_name: true
-first_name: Alice
+first_name: Lorenzo
 email: lorenzo.pesaresi@econ.uzh.ch
 ---
 I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). 
