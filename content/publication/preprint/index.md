@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Equilibrium Effects of the Minimum Wage: The Role of Firms' Market Power"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
