@@ -77,7 +77,7 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter):
+              TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br>
               Responsibilities include:
 
               * Design and solutions of problem sets
