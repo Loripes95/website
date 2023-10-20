@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Lorenzo Pesaresi
+title:
 date: 2023-10-20
 type: landing
 
