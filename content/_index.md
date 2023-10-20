@@ -72,7 +72,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
-          company_logo: ../assets/media/icons/brands/UZH_logo.JPG
+          company_logo: ''
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
           date_end: ''
