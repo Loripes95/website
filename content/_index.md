@@ -90,12 +90,12 @@ sections:
           location: Rome (Italy)
           date_start: '2021-06-01'
           date_end: '2022-09-31'
-          description: |2
+          description: |2-
               Six-month internship being spent at the Economic Structure Department - Households and
               Labor Markets Unit of the Bank of Italy:
               Winner of the final exam awarding a permanent position at the Bank of Italy (Oct. 2022).
-          design:
-          columns: '2'
+    # design:
+    # columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
