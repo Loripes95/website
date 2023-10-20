@@ -92,7 +92,7 @@ sections:
           date_end: '2022-10-31'
           description: |2-
               Six-month internship being spent at the Economic Structure Department - Households and
-              Labor Markets Unit of the Bank of Italy:
+              Labor Markets Unit of the Bank of Italy.<br>
               Winner of the final exam awarding a permanent position at the Bank of Italy (Oct. 2022).
     design:
       columns: '2'
