@@ -72,17 +72,18 @@ sections:
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
-          company_logo:
+          company_logo: org-gc
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
               TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter):
               Responsibilities include:
+
               * Design and solutions of problem sets
               * Weekly TA classes
               * Exam grading
-    - title: Professor of Semiconductor Physics
+        - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
           company_logo: org-x
