@@ -93,8 +93,8 @@ sections:
               Six-month internship being spent at the Economic Structure Department - Households and
               Labor Markets Unit of the Bank of Italy:
               Winner of the final exam awarding a permanent position at the Bank of Italy (Oct. 2022).
-    design:
-      columns: '2'
+  #  design:
+  #    columns: '2'
   # - block: accomplishments
   #  content:
   #    # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
