@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: LP
+title: Lorenzo Pesaresi
 date: 2023-10-20
 type: landing
 
@@ -77,7 +77,7 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br>
+              TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br><br>
               Responsibilities include:
 
               * Design and solutions of problem sets
@@ -92,7 +92,7 @@ sections:
           date_end: '2022-10-31'
           description: |2-
               Six-month internship being spent at the Economic Structure Department - Households and
-              Labor Markets Unit of the Bank of Italy.<br>
+              Labor Markets Unit of the Bank of Italy.<br><br>
               Winner of the final exam awarding a permanent position at the Bank of Italy (Oct. 2022).
     design:
       columns: '2'
