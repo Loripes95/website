@@ -83,16 +83,19 @@ sections:
               * Design and solutions of problem sets
               * Weekly TA classes
               * Exam grading
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+        - title: Graduate Research Intern
+          company: Bank of Italy
+          company_url: 'https://www.bancaditalia.it/'
+          company_logo: ''
+          location: Rome (Italy)
+          date_start: '2021-06-01'
+          date_end: '2022-09-31'
+          description: |2
+              Six-month internship being spent at the Economic Structure Department - Households and
+              Labor Markets Unit of the Bank of Italy:
+              Winner of the final exam awarding a permanent position at the Bank of Italy (Oct. 2022).
+    # design:
+    #  columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
