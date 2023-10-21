@@ -75,7 +75,7 @@ sections:
           company_logo: ''
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
-          date_end: ''
+          date_end: '2012-07-31'
           description: |2-
               TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br><br>
               Responsibilities include:
@@ -86,7 +86,7 @@ sections:
         - title: Graduate Research Intern
           company: Bank of Italy
           company_url: 'https://www.bancaditalia.it/'
-          company_logo: ''
+          company_logo: ![Bank of Italy](https://github.com/Loripes95/website/assets/media/icons/brands)
           location: Rome (Italy)
           date_start: '2021-06-01'
           date_end: '2022-10-31'
