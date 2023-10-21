@@ -37,7 +37,7 @@ education:
     - course: MSc in Economics
       institution: University of Bologna
       year: "2017-2019"
-    - course: BSc in Economics, Markets, and Institutions
+    - course: BSc in Economics
       institution: University of Bologna
       year: "2014-2017"
 superuser: true
@@ -48,6 +48,6 @@ highlight_name: true
 first_name: Lorenzo
 email: lorenzo.pesaresi@econ.uzh.ch
 ---
-Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc in Economics and a BSc in Economics, Markets and Institutions from the University of Bologna. My research interests are Macroeconomics and Labor Economics. In my research I study the factors that prevent economie from reaching full employment and how governments can intervene to address them.
+Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc and a BSc in Economics from the [University of Bologna](https://www.unibo.it/en/homepage). My research interests are Macroeconomics and Labor Economics. In my research I study the factors that prevent economies from reaching full employment and how governments can intervene to address them.
 
 {style="text-align: justify;"}
