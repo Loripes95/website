@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: lorenzo.pesaresi@econ.uzh.ch
+    link: mailto:lorenzo.pesaresi@econ.uzh.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LorenzoPesares1
@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/lorenzo-pesaresi-2067b4153/
   - icon: cv
     icon_pack: ai
-    link: C:\Users\lpesar\Dropbox/CV.pdf
+    link: [C:\Users\lpesar\Dropbox/CV.pdf](https://www.dropbox.com/scl/fi/uzd27pplarprr1bmerjb3/CV.pdf?rlkey=m3holu19pm0dyd8xicchp6tko&dl=0)
 organizations:
   - name: University of Zurich
     url: https://www.uzh.ch/en.html
