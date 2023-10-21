@@ -1,8 +1,8 @@
 ---
-title: "Duration Dependence in Finding a Job: Applications, Interviews, Job Offers"
-publication_types:
-  - "3"
-date: 2023-10-21T15:36:58.315Z
+# title: "Duration Dependence in Finding a Job: Applications, Interviews, Job Offers"
+# publication_types:
+#  - "3"
+# date: 2023-10-21T15:36:58.315Z
 ---
 
 {{% callout note %}}
