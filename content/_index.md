@@ -86,7 +86,7 @@ sections:
         - title: Graduate Research Intern
           company: Bank of Italy
           company_url: 'https://www.bancaditalia.it/'
-          company_logo: ![Bank of Italy](https://github.com/Loripes95/website/tree/main/assets/media/icons/brands/BdI-logo.JPG)
+          company_logo: BdI-logo.JPG
           location: Rome (Italy)
           date_start: '2021-06-01'
           date_end: '2022-10-31'
