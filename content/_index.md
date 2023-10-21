@@ -72,7 +72,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
-          company_logo: ''
+          company_logo: UZH_logo
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
           date_end: '2012-07-31'
@@ -86,7 +86,7 @@ sections:
         - title: Graduate Research Intern
           company: Bank of Italy
           company_url: 'https://www.bancaditalia.it/'
-          company_logo: BdI_logo
+          company_logo: BdI_logo2
           location: Rome (Italy)
           date_start: '2021-06-01'
           date_end: '2022-10-31'
