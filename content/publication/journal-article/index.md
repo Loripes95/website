@@ -5,7 +5,7 @@ authors:
 - Rafael Lalive
 - Aderonke Osikominu
 - admin
-- Josef Zweimuller
+- Josef Zweimuller (https://sites.google.com/view/josefzweimueller/home)
 author_notes:
 - "University of Lausanne"
 - "University of Lausanne"
@@ -52,7 +52,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Duration Profile of the Job Finding Rate, Decomposition'
   focal_point: ""
   preview_only: false
 
@@ -61,8 +61,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -72,8 +72,8 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]# ## (https://wowchemy.com/docs/content/writing-markdown-latex/).
