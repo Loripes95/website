@@ -17,9 +17,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LorenzoPesares1
-    label: Follow me on X-Twitter
-    display:
-      header: true
+    # label: Follow me on X-Twitter
+    # display:
+    #  header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lorenzo-pesaresi-2067b4153/
@@ -48,6 +48,6 @@ highlight_name: true
 first_name: Lorenzo
 email: lorenzo.pesaresi@econ.uzh.ch
 ---
-Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc and a BSc in Economics from the [University of Bologna](https://www.unibo.it/en/homepage). My research interests are Macroeconomics and Labor Economics. In my research I study the factors that prevent economies from reaching full employment and how governments can intervene to address them.
+Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc and a BSc in Economics from the [University of Bologna](https://www.unibo.it/en/homepage). <br> <br> My research interests are Macroeconomics and Labor Economics. In my research I study the factors that prevent economies from reaching full employment and how governments can intervene to address them.
 
 {style="text-align: justify;"}
