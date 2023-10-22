@@ -1,7 +1,7 @@
 ---
 title: "Product Specialization, Production Complexity & Supply Chain Resilience"
 authors:
-- Alessandro Ferrai
+- Alessandro Ferrari
 - admin
 # author_notes:
 # - "University of Zurich"
