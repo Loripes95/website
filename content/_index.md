@@ -75,7 +75,7 @@ sections:
           company_logo: University_of_Zurich_logo
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
-          date_end: '2012-07-31'
+          date_end: '2023-07-31'
           description: |2-
               TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br><br>
               Responsibilities include:
@@ -91,7 +91,7 @@ sections:
           date_start: '2021-06-01'
           date_end: '2022-10-31'
           description: |2-
-              Six-month internship being spent at the Economic Structure Department - Households and
+              Internship at the Economic Structure Department - Households and
               Labor Markets Unit of the Bank of Italy.<br><br>
               Winner of the final exam awarding a permanent position at the Bank of Italy (Oct. 2022).
     design:
