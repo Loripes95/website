@@ -35,7 +35,7 @@ abstract: The job finding rate declines with the duration of unemployment. While
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: Custom Link
