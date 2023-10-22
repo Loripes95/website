@@ -5,7 +5,7 @@ authors:
 - Rafael Lalive
 - Aderonke Osikominu
 - admin
-- Josef Zweimuller
+- [Josef Zweimuller](https://sites.google.com/view/josefzweimueller/home)
 author_notes:
 - "University of Lausanne"
 - "University of Lausanne"
