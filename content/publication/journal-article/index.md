@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -70,7 +70,6 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
----
 
 # {{% callout note %}}
 # Create your slides in Markdown - click the *Slides* button to check out the example.
@@ -78,3 +77,4 @@ image:
 
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]
 # (https://wowchemy.com/docs/content/writing-markdown-latex/).
+---
