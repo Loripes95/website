@@ -24,7 +24,7 @@ publication_short: ""
 # abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Draft coming soon!
+# summary: 
 
 tags:
 - Source Themes
