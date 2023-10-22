@@ -14,8 +14,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lorenzo.pesaresi@econ.uzh.ch
-  - icon: https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/square-x-twitter.svg
-    # icon_pack: fa
+  - icon: square-x-twitter
+    icon_pack: fa
     link: https://twitter.com/LorenzoPesares1
     label: Follow me on X-Twitter
     display:
