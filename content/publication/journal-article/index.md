@@ -33,8 +33,8 @@ abstract: The job finding rate declines with the duration of unemployment. While
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:
@@ -69,11 +69,12 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 # {{% callout note %}}
 # Create your slides in Markdown - click the *Slides* button to check out the example.
 # {{% /callout %}}
 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]# ## (https://wowchemy.com/docs/content/writing-markdown-latex/).
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]
+# (https://wowchemy.com/docs/content/writing-markdown-latex/).
