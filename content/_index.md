@@ -197,17 +197,17 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-  # - block: collection
-  #  id: featured
-  #  content:
-  #    title: Working Papers
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: citation
+  - block: collection
+    id: featured
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     content:
       title: Work in Progress
