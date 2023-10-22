@@ -5,13 +5,13 @@ authors:
 - Rafael Lalive
 - Aderonke Osikominu
 - admin
-- Josef Zweimuller (https://sites.google.com/view/josefzweimueller/home)
+- Josef Zweimuller
 author_notes:
 - "University of Lausanne"
 - "University of Lausanne"
 - "University of Hohenmheim"
 - "University of Zurich"
-- "University of Zurich"
+- "[University of Zurich](https://sites.google.com/view/josefzweimueller/home)"
 date: "2023-04-07T00:00:00Z"
 doi: ""
 
