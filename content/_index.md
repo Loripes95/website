@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2023-10-20
+date: 2023-10-22
 type: landing
 
 sections:
@@ -197,17 +197,17 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-   - block: collection
-    id: featured
-    content:
-      title: Working Papers
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #  id: featured
+  #  content:
+  #    title: Working Papers
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: citation
   - block: collection
     content:
       title: Work in Progress
@@ -249,7 +249,7 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Schonberggasse 1
+        street: Schönberggasse 1
         city: Zurich
         region: ZH
         postcode: '8051'
