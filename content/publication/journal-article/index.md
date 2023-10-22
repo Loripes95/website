@@ -11,7 +11,7 @@ author_notes:
 - "University of Lausanne"
 - "University of Hohenmheim"
 - "University of Zurich"
-- "[University of Zurich](https://sites.google.com/view/josefzweimueller/home)"
+- "University of Zurich"
 date: "2023-04-07T00:00:00Z"
 doi: ""
 
