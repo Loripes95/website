@@ -15,7 +15,7 @@ social:
     icon_pack: fas
     link: mailto:lorenzo.pesaresi@econ.uzh.ch
   - icon: twitter
-    icon_pack: fa
+    icon_pack: fas
     link: https://twitter.com/LorenzoPesares1
     label: Follow me on X-Twitter
     display:
