@@ -1,5 +1,5 @@
 ---
-title: "Product Specialization, Production Complexity & Supply Chain Resilience"
+title: "Specialization, Complexity & Supply Chain Resilience"
 authors:
 - Alessandro Ferrari
 - admin
