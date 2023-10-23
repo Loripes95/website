@@ -1,19 +1,19 @@
 ---
 title: Example Talk
 
-event: EWMES 22
+event: EWMES22
 event_url: https://berlinschoolofeconomics.de/insights/european-winter-meeting-of-the-econometric-society-2022
 
 location: Berlin
 address:
-  street: Spandauer Strasse 1
+  street: 1 Spandauer Strasse
   city: Berlin
-  # region: CA
+  region: BE
   postcode: '10178'
   country: Germany
 
-summary: Presentation of "Equilibrium Effects of the Minimum Wage: The Role of Product Market Power".
-abstract: 'We study the role of product market power in the equilibrium effects of the minimum wage.'
+summary: Presentation of Equilibrium Effects of the Minimum Wage`:` The Role of Product Market Power.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
