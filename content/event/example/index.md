@@ -12,8 +12,8 @@ address:
   postcode: '10178'
   country: Germany
 
-# summary: 
-abstract: 'Presentation of Equilibrium Effects of the Minimum Wage: The Role of Product Market Power'
+summary: Presentation of Equilibrium Effects of the Minimum Wage The Role of Product Market Power.
+# abstract: 'Presentation of Equilibrium Effects of the Minimum Wage: The Role of Product Market Power'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
