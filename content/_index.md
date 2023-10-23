@@ -225,7 +225,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Conferences and Workshops
+      title: Conferences & Workshops
       filters:
         folders:
           - event
