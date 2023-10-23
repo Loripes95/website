@@ -1,5 +1,5 @@
 ---
-title: Conferences & Workshops
+title: Conferences and Workshops
 cms_exclude: true
 
 # View.
