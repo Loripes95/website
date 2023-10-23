@@ -12,8 +12,8 @@ address:
   postcode: '10178'
   country: Germany
 
-summary: Presentation of Equilibrium Effects of the Minimum Wage`:` The Role of Product Market Power.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presentation of Equilibrium Effects of the Minimum Wage The Role of Product Market Power.
+abstract: 'We study the role of product market power in the equilibrium effects of the minimum wage.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
