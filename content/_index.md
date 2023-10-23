@@ -231,7 +231,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: citation
   # - block: tag_cloud
   #  content:
   #    title: Popular Topics
