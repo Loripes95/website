@@ -6,14 +6,14 @@ event_url: https://berlinschoolofeconomics.de/insights/european-winter-meeting-o
 
 location: Berlin
 address:
-  street: 1 Spandauer Strasse
+  street: Spandauer Strasse 1
   city: Berlin
   region: BE
   postcode: '10178'
   country: Germany
 
-summary: Presentation of Equilibrium Effects of the Minimum Wage The Role of Product Market Power.
-abstract: 'We study the role of product market power in the equilibrium effects of the minimum wage.'
+# summary: 
+abstract: 'Presentation of Equilibrium Effects of the Minimum Wage: The Role of Product Market Power'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
