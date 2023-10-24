@@ -1,5 +1,5 @@
 ---
-title: Presentation at EWMES22
+title: EWMES
 
 event: EWMES22
 event_url: https://berlinschoolofeconomics.de/insights/european-winter-meeting-of-the-econometric-society-2022
@@ -12,13 +12,13 @@ address:
   postcode: '10178'
   country: Germany
 
-summary: Presentation of Equilibrium Effects of the Minimum Wage The Role of Product Market Power.
+# summary: Presentation of Equilibrium Effects of the Minimum Wage The Role of Product Market Power.
 # abstract: 'Presentation of Equilibrium Effects of the Minimum Wage: The Role of Product Market Power'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-12-16T13:00:00Z'
-date_end: '2022-12-16T15:00:00Z'
+date: '2022-12-16T10:00:00Z'
+date_end: '2022-12-16T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
