@@ -2,9 +2,10 @@
 title: Lorenzo Pesaresi
 role: PhD Candidate in Economics
 avatar_filename: avatar.jpg
-bio: I'm a PhD candidate in Economics at the University
-  of Zurich. My research interests are Macroeconomics, Labor Economics, Search
-  Theory, and Monetary Economics.
+bio: ''
+  # I'm a PhD candidate in Economics at the University
+  # of Zurich. My research interests are Macroeconomics, Labor Economics, Search
+  # Theory, and Monetary Economics.
 interests:
   - Macroeconomics
   - Labor Economics
