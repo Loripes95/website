@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/lorenzo-pesaresi-2067b4153/
   - icon: cv
     icon_pack: ai
-    link: https://github.com/Loripes95/website/blob/main/static/uploads/CV.pdf
+    link: https://lorenzopesaresi.com/uploads/CV.pdf
   #  link: https://www.dropbox.com/scl/fi/uzd27pplarprr1bmerjb3/CV.pdf?rlkey=m3holu19pm0dyd8xicchp6tko&dl=0
 organizations:
   - name: University of Zurich
