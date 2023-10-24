@@ -1,7 +1,7 @@
 ---
 title: Swiss Macro Workshop
 
-event: Swiss Macro Workshop
+event: Swiss Macro Workshop 2023
 event_url: https://gcie.ch/wp-content/uploads/2023/01/swiss_macro_workshop_2023_schedule_v3.pdf
 
 location: Sils im Engadin
