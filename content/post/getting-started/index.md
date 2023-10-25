@@ -1,9 +1,9 @@
 ---
 title: Short visiting period at the University of Lausanne.
-subtitle: I will be visiting the University of Lausanne from Nov 7 to Nov 12.
+# subtitle: I will be visiting the University of Lausanne from Nov 7 to Nov 12.
 
 # Summary for listings and search engines
-# summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: I will be visiting the University of Lausanne from Nov 7 to Nov 12. Please reach out if you are around!
 
 # Link this post with a project
 # projects: []
