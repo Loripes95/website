@@ -1,5 +1,5 @@
 ---
-title: Seminar and short visiting period at the University of Lausanne.
+title: Seminar presentation and short visiting stay at the University of Lausanne (7-12/11/2023).
 # subtitle: I will be visiting the University of Lausanne from Nov 7 to Nov 12.
 
 # Summary for listings and search engines
