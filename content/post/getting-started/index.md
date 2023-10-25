@@ -1,5 +1,5 @@
 ---
-title: Short visiting period at the University of Lausanne.
+title: Seminar and short visiting period at the University of Lausanne.
 # subtitle: I will be visiting the University of Lausanne from Nov 7 to Nov 12.
 
 # Summary for listings and search engines
@@ -41,5 +41,5 @@ tags:
 #  - 教程
 
 ---
-I will be visiting the University of Lausanne from Nov 7 to Nov 12. Please reach out if you are around!
+I will be visiting the Department of Economics of the University of Lausanne from Nov 7 to Nov 12. On Nov 8 I will present my paper "Equilibrium Effects of the Minimum Wage: The Role of Firms' Market Power" in the PhD Macro Workshop. Please reach out if you are around!
 ---
