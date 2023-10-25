@@ -42,4 +42,7 @@ tags:
 
 ---
 I will be visiting the Department of Economics of the University of Lausanne from Nov 7 to Nov 12. On Nov 8 I will present my paper "Equilibrium Effects of the Minimum Wage: The Role of Firms' Market Power" in the PhD Macro Workshop. Please reach out if you are around!
+
+{style="text-align: justify;"}
+
 ---
