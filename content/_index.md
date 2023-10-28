@@ -82,7 +82,7 @@ sections:
       order: desc
     design:
      # Choose a layout view
-     view: list
+     view: compact
      columns: '2'
   - block: experience
     content:
