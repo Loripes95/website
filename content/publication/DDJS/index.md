@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: The job finding rate declines with the duration of unemployment. While this is a well established fact, the reasons are still disputed. We use monthly search diaries from Swiss public employment offices to shed new light on this issue. Search diaries record all applications sent by job seekers including the outcome of each application -- whether the employer followed up with a job interview and a job offer. Based on more than 600,000 applications sent by 15,000 job seekers, we find that job applications and job interviews decrease, but job offers (after an interview) increase with duration. A model with statistical discrimination by firms and learning from search outcomes by workers replicates these empirical duration patterns closely. The structurally estimated model predicts that 55 percent of the decline in the job finding rate is due to "true" duration dependence, while the remaining 45 percent is due to dynamic selection of the unemployment pool. We also discuss further drivers of the observed duration patterns, such as stock-flow matching, depletion of a job seeker's personal network, and changes in application targeting or quality over time.
+abstract: The job finding rate declines with the duration of unemployment. While this is a well established fact, the reasons are still disputed. We use monthly search diaries from Swiss public employment offices to shed new light on this issue. Search diaries record all applications sent by job seekers, including the outcome of each application -- whether the employer followed up with a job interview and a job offer. Based on more than 600,000 applications sent by 15,000 job seekers, we find that job applications and job interviews decrease, but job offers (after an interview) increase with duration. A model with statistical discrimination by firms and learning from search outcomes by workers replicates these empirical duration patterns closely. The structurally estimated model predicts that 55 percent of the decline in the job finding rate is due to ``true'' duration dependence, while the remaining 45 percent is due to dynamic selection of the unemployment pool. We also discuss further drivers of the observed duration patterns, such as human capital depreciation, stock-flow matching, depletion of one's personal network, and changes in application targeting or quality.
     
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: Custom Link
 #  url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.dropbox.com/scl/fi/m38ij76dy5w4i1zxwincq/ZLOPZ2023_DDJS.pdf?rlkey=iyowt1zgublg93vqtcour13el&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
