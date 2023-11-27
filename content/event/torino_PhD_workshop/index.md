@@ -1,7 +1,7 @@
 ---
-title: EALE
+title: XVI UniTo-CCA PhD Workshop in Economics
 
-event: XVI UNITO-CCA PhD Workshop in Economics
+event: XVI UniTo-CCA PhD Workshop in Economics
 event_url: https://www.workshopecon.carloalberto.org/
 
 location: Torino
