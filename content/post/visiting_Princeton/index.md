@@ -2,7 +2,7 @@
 title: Exchange semester at Princeton University.
 
 # Summary for listings and search engines
-summary: During the Spring semester, I will be visiting the Department of Economics at Princeton University, hosted by [Professor Gialuca Violante](https://violante.economics.princeton.edu/). I look forward to being part of such a vibrant academic community!
+summary: During the Spring semester, I will be visiting the Department of Economics at Princeton University, hosted by [Professor Gianluca Violante](https://violante.economics.princeton.edu/). I look forward to being part of such a vibrant academic community!
 
 # Link this post with a project
 # projects: []
