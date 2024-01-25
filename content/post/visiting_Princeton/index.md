@@ -40,7 +40,7 @@ tags:
 #  - 教程
 
 ---
-During the Spring semester, I will be visiting the Department of Economics at Princeton University, hosted by [Professor Gialuca Violante](https://violante.economics.princeton.edu/). I look forward to being part of such a vibrant academic community!
+During the Spring semester, I will be visiting the Department of Economics at Princeton University, hosted by [Professor Gianluca Violante](https://violante.economics.princeton.edu/). I look forward to being part of such a vibrant academic community!
 
 {style="text-align: justify;"}
 
