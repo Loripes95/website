@@ -1,5 +1,5 @@
 ---
-title: Presentation at the "XVI UniTo-CCA PhD Workshop in Economics" in Turin (23/11/2023).
+title: Presentation at the "XVI UniTo-CCA PhD Workshop in Economics" in Turin (23/11/2023)
 # subtitle: I will be visiting the University of Lausanne from Nov 7 to Nov 12.
 
 # Summary for listings and search engines
