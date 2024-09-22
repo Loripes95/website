@@ -13,7 +13,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lorenzo.pesaresi@econ.uzh.ch
-  - icon: brands/x-twitter-brands-solid
+  - icon: x-twitter-brands-solid
     # icon: twitter
     # icon_pack: fab
     link: https://x.com/LorenzoPesares1
