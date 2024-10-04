@@ -49,7 +49,7 @@ url_pdf: https://www.dropbox.com/scl/fi/vgx4o46ghfqjg55yq9s4d/LOPZZ2024_DDJS.pdf
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
-url_thread: https://x.com/LorenzoPesares1/status/1842131138065711158
+url_slides: https://x.com/LorenzoPesares1/status/1842131138065711158
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
