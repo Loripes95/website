@@ -37,9 +37,9 @@ abstract: The job finding rate declines with the duration of unemployment, but t
 # - Source Themes
 featured: true
 
-# links:
-# - name: Custom Link
-#  url: http://example.org
+links:
+- name: "X Thread"
+url: "https://x.com/LorenzoPesares1/status/1842131138065711158"
 url_pdf: https://www.dropbox.com/scl/fi/vgx4o46ghfqjg55yq9s4d/LOPZZ2024_DDJS.pdf?rlkey=5xs3axtuhsxxajzklbddi6692&st=mgt572eh&dl=0
 # https://www.dropbox.com/scl/fi/m38ij76dy5w4i1zxwincq/ZLOPZ2023_DDJS.pdf?rlkey=iyowt1zgublg93vqtcour13el&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
@@ -49,7 +49,6 @@ url_pdf: https://www.dropbox.com/scl/fi/vgx4o46ghfqjg55yq9s4d/LOPZZ2024_DDJS.pdf
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
-url_slides: https://x.com/LorenzoPesares1/status/1842131138065711158
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
