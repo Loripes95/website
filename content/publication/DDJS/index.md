@@ -39,7 +39,7 @@ featured: true
 
 links:
 - name: "X Thread"
-url: "x.com/LorenzoPesares1/status/1842131138065711158"
+url_X Thread: "https://x.com/LorenzoPesares1/status/1842131138065711158"
 url_pdf: https://www.dropbox.com/scl/fi/vgx4o46ghfqjg55yq9s4d/LOPZZ2024_DDJS.pdf?rlkey=5xs3axtuhsxxajzklbddi6692&st=mgt572eh&dl=0
 # https://www.dropbox.com/scl/fi/m38ij76dy5w4i1zxwincq/ZLOPZ2023_DDJS.pdf?rlkey=iyowt1zgublg93vqtcour13el&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
