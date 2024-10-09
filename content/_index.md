@@ -107,7 +107,7 @@ sections:
               Macroeconomic analysis for the project "Evaluation of Corona Short-Time Work", funded by the Austrian Ministry of Labor and Economy.<br><br>
               Responsibilities include:
 
-              * Development and structural estimation of a search and matching model of the Austrian labor market
+              * Development and structural estimation of a search-and-matching model of the Austrian labor market
               * Estimate of the number of jobs saved by the Austrian Corona Short-Time Work program
               * Estimate of welfare effects of the Austrian Corona Short-Time Work program
         - title: Graduate Teaching Assistant
