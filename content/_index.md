@@ -97,8 +97,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Macroeconomic Analyst
-          company: University of Zurich
-          company_url: 'https://www.uzh.ch/en.html'
+          company: Austrian Institute of Economic Research (WIFO)
+          company_url: 'https://www.wifo.ac.at/en/'
           company_logo: WIFO_logo
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
