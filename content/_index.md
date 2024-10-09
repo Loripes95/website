@@ -96,20 +96,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Macroeconomic Analyst
-          company: Austrian Institute of Economic Research (WIFO)
-          company_url: 'https://www.wifo.ac.at/en/'
-          company_logo: WIFO_logo
-          location: Vienna (Austria)
-          date_start: '2024-10-01'
-          date_end: '2025-04-31'
-          description: |2-
-              Macroeconomic analysis for the project "Evaluation of Corona Short Time Work". <br><br>
-              Responsibilities include:
-
-              * Development and structural estimation of a search-and-matching model of the Austrian labor market
-              * Estimate of the number of jobs saved by the Austrian Corona Short Time Work program
-              * Estimate of welfare effects of the Austrian Corona Short Time Work program
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
