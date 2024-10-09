@@ -101,15 +101,15 @@ sections:
           company_url: 'https://www.wifo.ac.at/en/'
           company_logo: WIFO_logo
           location: Zurich (Switzerland)
-          date_start: '2021-10-01'
-          date_end: '2023-07-31'
+          date_start: '2024-10-01'
+          date_end: '2025-04-01'
           description: |2-
-              TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br><br>
+              Macroeconomic analysis for the project Evaluation of Corona Short-Time Work.<br><br>
               Responsibilities include:
 
-              * Design and solutions of problem sets
-              * Weekly TA classes
-              * Exam grading
+              * Development and structural estimation of a search and matching model of the Austrian labor market
+              * Estimate of the number of jobs saved by the Austrian Corona Short Time Work program
+              * Estimate of welfare effects of the Austrian Corona Short Time Work program
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
