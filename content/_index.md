@@ -104,12 +104,12 @@ sections:
           date_start: '2024-10-01'
           date_end: '2025-04-31'
           description: |2-
-              Macroeconomic analysis for the project ``Evaluation of Corona Short-Time Work''.<br><br>
+              TA for Macroeconomics for Research Students – Business Cycle sequence, PhD core course (Professors Alessandro Ferrari and Christoph Winter).<br><br>
               Responsibilities include:
 
-              * Development and structural estimation of a search-and-matching model of the Austrian labor market
-              * Estimate of the number of jobs saved by the Austrian Corona Short-Time Work program
-              * Estimate of welfare effects of the Austrian Corona Short-Time Work program
+              * Design and solutions of problem sets
+              * Weekly TA classes
+              * Exam grading
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
