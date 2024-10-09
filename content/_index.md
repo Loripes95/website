@@ -96,10 +96,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Teaching Assistant
+        - title: Macroeconomic Analyst
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
-          company_logo: University_of_Zurich_logo
+          company_logo: WIFO_logo
           location: Zurich (Switzerland)
           date_start: '2021-10-01'
           date_end: '2023-07-31'
