@@ -98,8 +98,8 @@ sections:
       items:
         - title: Macroeconomic Analyst
           company: Austrian Institute of Economic Research (WIFO)
-          company_url: 'https://www.wifo.ac.at/en/'
-          company_logo:
+          company_url: 
+          company_logo: WIFO_logo
           location: Vienna (Austria)
           date_start: '2024-10-01'
           date_end: '2025-04-31'
