@@ -2,7 +2,7 @@
 title: Lorenzo Pesaresi
 role: PhD Candidate in Economics
 avatar_filename: avatar.jpg
-bio: I'm a PhD candidate in Economics at the University of Zürich. My main research interests are in Macroeconomics, Labor Economics, Search Theory, and Monetary Economics.
+bio: I'm a PhD candidate in Economics at the University of Zürich. My research interests are in Macroeconomics, Labor Economics, Search Theory, and Monetary Economics.
 
 interests:
   - Macroeconomics
@@ -53,6 +53,6 @@ email: lorenzo.pesaresi@econ.uzh.ch
 ---
 Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc and a BSc in Economics from the [University of Bologna](https://www.unibo.it/en/homepage).
 I visited [Princeton University](https://economics.princeton.edu/) in the Spring 2024, hosted by [Professor Gianluca Violante](https://violante.economics.princeton.edu/). <br><br>
-My research interests are Macroeconomics and Labor Economics. In my research I study the factors that prevent economies from achieving full employment and how governments can intervene to address them.
+My research interests are in Macroeconomics and Labor Economics. In my research I study the factors that prevent economies from achieving full employment and how governments can intervene to address them.
 
 {style="text-align: justify;"}
