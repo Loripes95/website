@@ -1,5 +1,5 @@
 ---
-title: "Specialization, Complexity & Supply Chain Resilience"
+title: "Specialization, Complexity & Resilience in Supply Chains"
 authors:
 - Alessandro Ferrari
 - admin
@@ -21,7 +21,8 @@ publishDate: "2024-01-16T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: Despite growing policy interest, the determinants of supply chain resilience are still not well understood. We propose a new theory of frictional supply chain formation where firms choose the specialization of their goods. Higher specialization increases productivity but reduces the trading probability. The production process is complex, meaning that multiple key inputs need to be sourced for final production to take place. Supply chain resilience is shaped by average specialization of goods, search frictions and production complexity. We show that this environment is often characterized by over-specialization due to a novel network externality arising from the interplay between frictional markets, endogenous specialization and complex production. In turn, over-specialization implies that supply chains are less resilient than efficient. We characterize how a social planner can decentralize efficient supply chain resilience through a targeted transaction subsidy.
+abstract: Despite growing policy interest, the determinants of supply chain resilience are still not well understood.
+We propose a new theory of supply chain formation with compatibility frictions: only compatible inputs can be used in the final production process. Intermediate producers choose the degree of specialization of their goods, trading off higher productivity with a lower share of compatible final producers. We model supply chains as a complex production process, in which multiple complementary inputs need to be sourced for final production to take place. Specialization choices, production complexity, and search frictions jointly determine the resilience of supply chains. This environment is characterized by over-specialization due to a novel network externality arising from the interplay between frictional markets, endogenous specialization, and complex production. Intermediate producers fail to internalize how their specialization choices affect the likelihood that the final good is produced and, as a consequence, the foregone surplus from complementary inputs. In turn, over-specialization implies that supply chains are less resilient than efficient. We characterize how a social planner can decentralize efficient supply chain resilience through a targeted transaction subsidy.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
