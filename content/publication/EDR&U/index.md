@@ -1,6 +1,6 @@
 
 ---
-title: "Endogenous Demand Risk & Unemployment"
+title: "Endogenous Networks, Demand Risk & Unemployment"
 authors:
 - admin
 # author_notes:
