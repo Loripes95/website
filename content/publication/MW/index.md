@@ -34,8 +34,8 @@ tags:
 featured: true
 
 # links:
-# - name: Custom Link
-#  url: http://example.org
+- name: "X Thread"
+  url: https://x.com/LorenzoPesares1/status/1859957294181847045
 url_pdf: https://www.dropbox.com/scl/fi/5977mb6cz5811jzsijpi5/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=jjtbqn685l4k022j4m89p86xx&st=dmkj3szt&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
