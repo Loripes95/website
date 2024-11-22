@@ -33,7 +33,7 @@ tags:
 - Source Themes
 featured: true
 
-# links:
+links:
 - name: "X Thread"
   url: https://x.com/LorenzoPesares1/status/1859957294181847045
 url_pdf: https://www.dropbox.com/scl/fi/5977mb6cz5811jzsijpi5/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=jjtbqn685l4k022j4m89p86xx&st=dmkj3szt&dl=0
