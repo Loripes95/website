@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Journal of Political Economy"
+publication: "_Revise & Resubmit Journal of Political Economy_"
 publication_short: ""
 
 abstract: The job finding rate declines with the duration of unemployment, but the relative importance of workers' search behavior and employers' recruitment behavior remains unclear.  We use monthly search diaries from Swiss public employment offices to shed new light on this issue. Search diaries record each single application sent by a job seeker and  indicate whether the employer followed up with an interview and a job offer. Based on more than 600,000 applications sent by 15,000 job seekers, we find that applications and interviews decrease, but job offers per interview increase with duration. A theoretical framework with endogenous search effort by workers  and statistical discrimination by firms replicates the duration patterns of applications, interviews and job offers closely. The estimated model predicts that roughly half of the decline in the job finding rate is due to structural duration dependence and the other half to dynamic selection of the unemployment pool. Falling applications by job seekers -- who internalize statistical discrimination by firms -- are the main driver of duration dependence. 
