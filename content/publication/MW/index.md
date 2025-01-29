@@ -18,7 +18,7 @@ publishDate: "2024-09-23T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: "_Job Market Paper_"
 publication_short: ""
 
 abstract: We study the equilibrium effects of the minimum wage when product market power is endogenous and varies with market competition. A higher minimum wage reallocates workers from small to large firms. Large firms gain market share and increase their price markups. We call this mechanism "concentration channel" of the minimum wage. We contribute a model with frictional labor markets, to allow for worker reallocation, and  oligopolistic product markets,  to account for the response of price markups. We estimate the model on Italian social security data, replicating the structure of detailed labor and product markets. Our counterfactuals suggest that both the aggregate labor share and value added are hump-shaped in the minimum wage, due to the opposing responses of price markups and wage markdowns. The optimal minimum wage, which trades off reallocation gains against employment losses, equals 70% of the current median wage. If product market power were exogenous, both the optimal minimum wage and the associated welfare gains would be higher. We provide novel empirical evidence from Italian firms supporting the concentration channel.
