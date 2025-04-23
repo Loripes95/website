@@ -53,7 +53,8 @@ email: lorenzo.pesaresi@econ.uzh.ch
 ---
 Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc and a BSc in Economics from the [University of Bologna](https://www.unibo.it/en/homepage).
 I visited [Princeton University](https://economics.princeton.edu/) in the Spring 2024, hosted by [Professor Gianluca Violante](https://violante.economics.princeton.edu/). <br><br>
-I am on the 2024-25 academic job market. <br><br>
-My research interests are in Macroeconomics and Labor Economics. In my research I study the factors that prevent economies from achieving full employment and how governments can intervene to address them.
+In September 2025, I will join the Structural Economic Analysis Directorate at the [Bank of Italy](https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1) as a Research Fellow. <br><br>
+My research interests are in Macroeconomics and Labor Economics. In my PhD Dissertation, I examine the macroeconomic implications of firm behavior in frictional markets.
+# In my research I study the factors that prevent economies from achieving full employment and how governments can intervene to address them.
 
 {style="text-align: justify;"}
