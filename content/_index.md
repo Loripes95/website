@@ -239,7 +239,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Conferences & Workshops
+      title: Talks
       filters:
         folders:
           - event
