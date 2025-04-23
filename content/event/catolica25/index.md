@@ -6,10 +6,10 @@ event_url: https://www.clsbe.lisboa.ucp.pt/catolica-lisbon-school-business-econo
 
 location: Lisbon
 address:
-  street: Palma de Cima, 1649-023
+  street: Palma de Cima
   city: Lisbon
   postcode: '1649-023 '
-  country: POrtugal
+  country: Portugal
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
