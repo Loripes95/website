@@ -42,8 +42,8 @@ tags:
 ---
 I will present my paper _The Concentration Channel of the Minimum Wage_ (joint with [Salvatore Lo Bello](https://sites.google.com/site/salvatorelobello1988/salvatore-lo-bello)) at the following events:
 
-- **May 8, 3:15 PM** – First plenary session, [Annual Conference of the Search and Matching Network (SaM 2025)](https://sam2025.econ.lt/program) in Vilnius
-- **May 28, 11:30 AM** – “Minimum Wage” session, [AIEL – University of Bologna Workshop: _Advances in Research on Labour Market Policies_](https://www.aiel.it/Files/Administrator/Events/Documents/event638814699376385075.pdf) in Bologna
+- **May 8, 3:15pm** – First plenary session, [Annual Conference of the Search and Matching Network (SaM 2025)](https://sam2025.econ.lt/program) in Vilnius
+- **May 28, 11:30am** – “Minimum Wage” session, [AIEL – University of Bologna Workshop: _Advances in Research on Labour Market Policies_](https://www.aiel.it/Files/Administrator/Events/Documents/event638814699376385075.pdf) in Bologna
 
 I look forward to connecting with the community of search theorists in Vilnius and to presenting for the first time at my Alma Mater in Bologna!
 
