@@ -2,7 +2,7 @@
 title: Upcoming presentations at the Annual Conference of the Search and Matching Network in Vilnius (8/5/2025) and the AIEL – University of Bologna Workshop in Bologna (28/5/2025)
 
 # Summary for listings and search engines
-summary: "I will present my paper \"The Concentration Channel of the Minimum Wage\" at two upcoming events: On May 8 at 3:15pm at the Annual Conference of the Search and Matching Network (SaM 2025) in Vilnius (first plenary session); On May 28 at 11:30am at the AIEL – University of Bologna Workshop “Advances in Research on Labour Market Policies” in Bologna (\"Minimum Wage\" session). I look forward to connecting with the community of search theorists in Vilnius and to presenting for the first time at my Alma Mater in Bologna!"
+summary: "I will present my paper \"The Concentration Channel of the Minimum Wage\" at two upcoming events: On May 8 at 3:15pm at the Annual Conference of the Search and Matching Network in Vilnius; On May 28 at 11:30am at the AIEL – University of Bologna Workshop in Bologna. I look forward to connecting with the community of search theorists in Vilnius and to presenting for the first time at my Alma Mater in Bologna!"
 
 # Link this post with a project
 # projects: []
