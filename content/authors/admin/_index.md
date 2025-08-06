@@ -52,7 +52,7 @@ first_name: Lorenzo
 email: lorenzo.pesaresi@econ.uzh.ch
 ---
 Welcome to my webpage! I'm a PhD candidate in Economics at the [Zurich Graduate School of Economics](https://www.econ.uzh.ch/en/study/phd/zurichgse.html) (University of Zurich). I hold a MSc and a BSc in Economics from the [University of Bologna](https://www.unibo.it/en/homepage).
-I was a visiting researcher at [Princeton University](https://economics.princeton.edu/) in Spring 2024, hosted by Professor [Gianluca Violante](https://violante.economics.princeton.edu/). <br><br>
+I visited [Princeton University](https://economics.princeton.edu/) in Spring 2024, hosted by Professor [Gianluca Violante](https://violante.economics.princeton.edu/). <br><br>
 In September 2025, I will join the Structural Economic Analysis Directorate at the [Bank of Italy](https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1) as a Research Fellow. <br><br>
 My research interests are in Macroeconomics and Labor Economics. My supervisors are Professors [Nir Jaimovich](https://www.nirjaimovich.com/), [Alessandro Ferrari](https://sites.google.com/view/aferrari) and [Josef Zweimüller](https://sites.google.com/view/josefzweimueller/home). In my PhD Dissertation, I examine the macroeconomic implications of firm behavior in frictional markets.
 
