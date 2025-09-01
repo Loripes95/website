@@ -1,17 +1,12 @@
-{{- /* social.html override for Wowchemy Academic Template */ -}}
 {{- range .Params.social -}}
-  <a href="{{ .link }}" class="social-link" target="_blank" rel="noopener">
-    {{- $icon := .icon -}}
-    {{- $pack := .icon_pack | default "fa" -}}
+<a href="{{ .link }}" class="social-link" target="_blank" rel="noopener">
+  {{- $icon := .icon -}}
+  {{- $pack := .icon_pack | default "fa" -}}
 
-    {{- if eq $pack "custom" -}}
-      {{- /* Load SVG from assets/media/icons/ */ -}}
-      <img src="{{ "icons/" | relURL }}{{ $icon }}.svg" 
-           alt="{{ $icon }}" 
-           class="social-icon" />
-    {{- else -}}
-      {{- /* Font Awesome */ -}}
-      <i class="{{ if eq $pack "fab" }}fab{{ else }}{{ $pack }}{{ end }} fa-{{ $icon }}"></i>
-    {{- end -}}
-  </a>
+  {{- if eq $pack "custom" -}}
+    <img src="{{ "/icons/" | relURL }}{{ $icon }}.svg" alt="{{ $icon }}" class="social-icon" />
+  {{- else -}}
+    <i class="{{ if eq $pack "fab" }}fab{{ else }}{{ $pack }}{{ end }} fa-{{ $icon }}"></i>
+  {{- end -}}
+</a>
 {{- end -}}
