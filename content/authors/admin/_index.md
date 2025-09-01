@@ -13,8 +13,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lorenzopesaresi95@gmail.com
-  - icon: twitter-x
-    icon_pack: custom
+  - icon: twitter
+    icon_pack: fab
     link: https://x.com/LorenzoPesares1
   # label: Follow me on X-Twitter
     # display:
