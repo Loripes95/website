@@ -263,12 +263,12 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Schönberggasse 1
-        city: Zurich
-        region: ZH
-        postcode: '8051'
-        country: Switzerland
-        country_code: ZH
+        street: Via Nazionale 91
+        city: Roma
+        region: Lazio
+        postcode: '00184'
+        country: Italia
+        country_code: IT
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
