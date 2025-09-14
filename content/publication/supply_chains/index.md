@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "University of Zurich"
 # - "University of Zurich"
-date: "2024-01-16T00:00:00Z"
+date: "2025-09-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,19 +21,19 @@ publishDate: "2024-01-16T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: 'Despite growing policy interest, the determinants of supply chain resilience are still not well understood. We propose a new theory of supply chain formation with compatibility frictions: only compatible inputs can be used in the final production process. Intermediate producers choose the degree of specialization of their goods, trading off higher productivity with a lower share of compatible final producers. We model supply chains as a complex production process, in which multiple complementary inputs need to be sourced for final production to take place. Specialization choices, production complexity, and search frictions jointly determine the resilience of supply chains. This environment is characterized by over-specialization due to a novel network externality arising from the interplay between frictional markets, endogenous specialization, and complex production. Intermediate producers fail to internalize how their specialization choices affect the likelihood that the final good is produced and, as a consequence, the foregone surplus from complementary inputs. In turn, over-specialization implies that supply chains are less resilient than efficient. We characterize how a social planner can decentralize efficient supply chain resilience through a targeted transaction subsidy.'
+abstract: 'Despite growing policy interest, the determinants of supply chain resilience are still not well understood. We propose a new theory of supply chain formation with compatibility frictions: only compatible inputs can be used in final good production. Intermediate producers choose the degree of specialization of their goods, trading off higher productivity against a lower share of compatible final producers. We model supply chains as complex production processes in which multiple complementary inputs must be sourced for final production to take place. Specialization choices, production complexity, and search frictions jointly determine supply chain resilience. Relative to the efficient allocation, the equilibrium is characterized by over-specialization due to a novel network externality arising from the interplay between frictional markets, endogenous specialization, and complex production. Over-specialization makes supply chains more productive in normal times but less resilient to disruptions than socially desirable. We show how a targeted transaction subsidy can decentralize efficient resilience in supply chains, and examine the implications of setting compatibility standards.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: Custom Link
 #  url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/file/d/13JG49MRJFKrTjPzz0XvR-L8zqxDz5dd_/view
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
@@ -44,10 +44,10 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
