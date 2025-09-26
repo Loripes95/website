@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Bank of Italy"
 # - "University of Zurich"
-date: "2025-09-08T00:00:00Z"
+date: "2025-09-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -38,7 +38,8 @@ featured: true
 links:
 - name: "X Thread"
   url: https://x.com/LorenzoPesares1/status/1859957294181847045
-url_pdf: https://www.dropbox.com/scl/fi/5977mb6cz5811jzsijpi5/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=jjtbqn685l4k022j4m89p86xx&st=dmkj3szt&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/0xp9vo5v5zts99z8idlqa/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=688kilt35yedbddnuwk0ggaw9&st=12qcyvoa&dl=0
+# https://www.dropbox.com/scl/fi/5977mb6cz5811jzsijpi5/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=jjtbqn685l4k022j4m89p86xx&st=dmkj3szt&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
