@@ -54,6 +54,6 @@ highlight_name: true
 first_name: Lorenzo
 email: lorenzopesaresi95@gmail.com
 ---
-Welcome to my webpage! I am a Research Fellow in Economics at the [Bank of Italy](https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1) (Structural Economic Analysis Directorate). I hold a PhD in Economics from the [University of Zurich](https://www.econ.uzh.ch/en/study/phd/zurichgse.html), with a dissertation on the macroeconomic implications of firm behavior in frictional markets. 
+Welcome to my webpage! I am a Research Fellow in Economics at the [Bank of Italy](https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1) (Structural Economic Analysis Directorate). I hold a PhD in Economics from the [University of Zurich](https://www.econ.uzh.ch/en/study/phd/zurichgse.html), with a dissertation on the macroeconomic implications of firm behavior in frictional markets. I am affiliated with the [Rockwool Foundation Berlin](https://www.rfberlin.com/).
 
 {style="text-align: justify;"}
