@@ -1,7 +1,7 @@
 ---
-title: EWMES
+title: EWMES 25
 
-event: EWMES
+event: EWMES25
 event_url: https://cyprusconferences.org/ewmes2025/
 
 location: Nicosia
