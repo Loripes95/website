@@ -1,5 +1,5 @@
 ---
-title: EWMES
+title: EWMES 22
 
 event: EWMES22
 event_url: https://berlinschoolofeconomics.de/insights/european-winter-meeting-of-the-econometric-society-2022
