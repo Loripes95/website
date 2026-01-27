@@ -1,12 +1,12 @@
 ---
-title: "Specialization, Complexity & Resilience in Supply Chains"
+title: "Specialization, Complexity, and Resilience in Supply Chains"
 authors:
 - Alessandro Ferrari
 - admin
 # author_notes:
 # - "University of Zurich"
 # - "University of Zurich"
-date: "2025-09-14T00:00:00Z"
+date: "2026-01-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publishDate: "2024-01-16T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: 'Despite growing policy interest, the determinants of supply chain resilience are still not well understood. We propose a new theory of supply chain formation with compatibility frictions: only compatible inputs can be used in final good production. Intermediate producers choose the degree of specialization of their goods, trading off higher productivity against a lower share of compatible final producers. We model supply chains as complex production processes in which multiple complementary inputs must be sourced for final production to take place. Specialization choices, production complexity, and search frictions jointly determine supply chain resilience. Relative to the efficient allocation, the equilibrium is characterized by over-specialization due to a novel network externality arising from the interplay between frictional markets, endogenous specialization, and complex production. Over-specialization makes supply chains more productive in normal times but less resilient to disruptions than socially desirable. We show how a targeted transaction subsidy can decentralize efficient resilience in supply chains, and examine the implications of setting compatibility standards.'
+abstract: 'We study how product specialization choices affect supply chain resilience. We propose a theory of supply chain formation in which only compatible inputs can be used in final production. Intermediate producers choose how much to specialize their goods, trading off higher value added against a smaller pool of compatible final producers. Final producers operate complex supply chains, requiring multiple complementary inputs. Specialization choices determine how quickly final producers can replace suppliers after disruptions, and thus supply chain resilience. In equilibrium, production inputs are over-specialized due to a novel "_network externality_". Intermediate producers fail to internalize how their specialization choices affect the likelihood that final producers source all required inputs, and therefore the lost value added from complementary inputs if production halts. As a result, supply chains are more productive in normal times but less resilient than socially desirable. We characterize the optimal transfer that restores the efficient allocation and show that non-fiscal interventions, such as compatibility standards, are generally welfare-enhancing.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: https://drive.google.com/file/d/13JG49MRJFKrTjPzz0XvR-L8zqxDz5dd_/view
+url_pdf: https://www.dropbox.com/scl/fi/rm6tzralay0ydlbhkald0/Ferrari-Pesaresi-2026-Specialization-Complexity-and-Resilience-in-Supply-Chains.pdf?rlkey=p1g77uq7snz41z3hx5cl6zb2g&st=ya7ht1d7&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
