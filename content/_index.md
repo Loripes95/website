@@ -104,7 +104,7 @@ sections:
           date_start: '2024-10-01'
           date_end: '2025-04-01'
           description: |2-
-              Macroeconomic analysis for the project [_Evaluation of Corona Short-Time Work_](https://www.wifo.ac.at/en/publication/175988/), funded by the Austrian Ministry of Labor and Economy.<br><br>
+              Macroeconomic analysis for the project [Evaluation of Corona Short-Time Work](https://www.wifo.ac.at/en/publication/175988/), funded by the Austrian Ministry of Labor and Economy.<br><br>
               Responsibilities include:
 
               * Development and structural estimation of a search-and-matching model of the Austrian labor market
