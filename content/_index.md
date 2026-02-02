@@ -108,8 +108,8 @@ sections:
               Responsibilities include:
 
               * Development and structural estimation of a search-and-matching model of the Austrian labor market
-              * Estimate of the number of jobs saved by the Austrian Corona Short-Time Work program
-              * Estimate of welfare effects of the Austrian Corona Short-Time Work program
+              * Simulation of the macroeconomic impact of the Austrian Corona Short-Time Work program
+              * Estimate of cost per job saved by the Austrian Corona Short-Time Work program
         - title: Graduate Teaching Assistant
           company: University of Zurich
           company_url: 'https://www.uzh.ch/en.html'
