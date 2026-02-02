@@ -23,11 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: Short-time work (STW) schemes are widely used in European countries to preserve jobs during recessions, but their long-term consequences for workers remain unclear.
-Using matched employer–employee data from Austrian social security registers, we predict individual layoff risk during the Great Recession and exploit variation in STW take-up across similar firms to identify
-the long-term effects of STW. Comparing workers with the same ex ante layoff risk, we uncover substantial heterogeneity: STW benefits workers facing a high risk of job loss, while harming workers with low layoff risk.
-We interpret these findings through a dynamic equilibrium search model with heterogeneous workers and firms exposed to aggregate shocks, estimated on the Austrian manufacturing sector.
-We use the model to assess the cost-effectiveness of STW accounting for unemployment insurance savings, imperfect targeting, and dynamic losses in allocative efficiency.
+# abstract:
 
 # Summary. An optional shortened abstract.
 # summary: 
