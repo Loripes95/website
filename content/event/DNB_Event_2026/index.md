@@ -8,7 +8,7 @@ location: Amsterdam
 address:
   street: Frederiksplein 61
   city: Amsterdam
-  postcode: '1071'
+  postcode: '1071 XL'
   country: The Netherlands
 
 # summary: Presentation of Equilibrium Effects of the Minimum Wage The Role of Product Market Power.
@@ -16,8 +16,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-13-02T09:40:00Z'
-date_end: '2026-13-02T10:15:00Z'
+date: '2026-02-13T09:40:00Z'
+date_end: '2026-02-13T10:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
