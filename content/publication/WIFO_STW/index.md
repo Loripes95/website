@@ -39,8 +39,6 @@ abstract: >
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
- - policy
 categories:
  - policy
 featured: true
