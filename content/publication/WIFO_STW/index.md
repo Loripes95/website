@@ -41,6 +41,8 @@ abstract: >
 
 tags:
  - policy
+categories:
+ - policy
 featured: true
 
 # links:
