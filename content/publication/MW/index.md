@@ -33,6 +33,8 @@ abstract: We study the equilibrium and welfare effects of the minimum wage when 
 
 # tags:
 # - Source Themes
+categories:
+ - academic
 featured: true
 
 links:
