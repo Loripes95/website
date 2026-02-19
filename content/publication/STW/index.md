@@ -29,8 +29,8 @@ abstract: >
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
-- Source Themes
+categories:
+ - academic
 featured: false
 
 # links:
