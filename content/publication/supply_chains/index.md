@@ -26,8 +26,9 @@ abstract: 'We study how product specialization choices affect supply chain resil
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+
+categories:
+ - academic
 featured: true
 
 links:
