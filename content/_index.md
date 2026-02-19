@@ -242,10 +242,7 @@ sections:
       filters:
         folders:
           - publication
-        tags:
-          - policy
-        category:
-          - policy
+        category: policy
         featured_only: true
     design:
       columns: '2'
