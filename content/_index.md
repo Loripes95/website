@@ -241,7 +241,9 @@ sections:
       title: Policy Work
       filters:
         folders:
-          - publication/policy
+          - publication
+        tags:
+          - policy
         featured_only: true
     design:
       columns: '2'
