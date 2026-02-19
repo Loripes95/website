@@ -218,6 +218,7 @@ sections:
       filters:
         folders:
           - publication
+        category: academic
         featured_only: true
     design:
       columns: '2'
@@ -232,6 +233,7 @@ sections:
       filters:
         folders:
           - publication
+        category: academic
         exclude_featured: true
     design:
       columns: '2'
