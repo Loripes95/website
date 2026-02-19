@@ -31,8 +31,8 @@ tags:
 featured: true
 
 # links:
-# - name: Custom Link
-#  url: http://example.org
+- name: CEPR Working Paper
+  url: https://cepr.org/publications/dp21139
 url_pdf: https://www.dropbox.com/scl/fi/rm6tzralay0ydlbhkald0/Ferrari-Pesaresi-2026-Specialization-Complexity-and-Resilience-in-Supply-Chains.pdf?rlkey=p1g77uq7snz41z3hx5cl6zb2g&st=ya7ht1d7&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
