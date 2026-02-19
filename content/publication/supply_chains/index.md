@@ -30,7 +30,7 @@ tags:
 - Source Themes
 featured: true
 
-# links:
+links:
 - name: CEPR Working Paper
   url: https://cepr.org/publications/dp21139
 url_pdf: https://www.dropbox.com/scl/fi/rm6tzralay0ydlbhkald0/Ferrari-Pesaresi-2026-Specialization-Complexity-and-Resilience-in-Supply-Chains.pdf?rlkey=p1g77uq7snz41z3hx5cl6zb2g&st=ya7ht1d7&dl=0
