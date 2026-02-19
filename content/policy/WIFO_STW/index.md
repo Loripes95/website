@@ -43,8 +43,8 @@ tags:
 - Source Themes
 featured: true
 
-# links:
-# url_pdf: https://www.wifo.ac.at/wp-content/uploads/upload-6308/s_2025_covid19_kurzarbeit_49889101.pdf
+links:
+url_pdf: https://www.wifo.ac.at/wp-content/uploads/upload-6308/s_2025_covid19_kurzarbeit_49889101.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
