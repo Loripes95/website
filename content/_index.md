@@ -246,7 +246,7 @@ sections:
       filters:
         folders:
           - publication
-        tag:
+        tags:
           - policy
         featured_only: true
     design:
