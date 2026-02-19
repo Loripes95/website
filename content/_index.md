@@ -218,6 +218,8 @@ sections:
       filters:
         folders:
           - publication
+        exclude_tags:
+          - policy
         featured_only: true
     design:
       columns: '2'
@@ -232,6 +234,8 @@ sections:
       filters:
         folders:
           - publication
+        exclude_tags:
+          - policy
         exclude_featured: true
     design:
       columns: '2'
