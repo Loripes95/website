@@ -239,9 +239,6 @@ sections:
   - block: collection
     content:
       title: Policy Work
-      cascade:
-        type: publication
-        layout: publication
       filters:
         folders:
           - policy
