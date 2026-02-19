@@ -237,6 +237,16 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    content:
+      title: Policy Work
+      filters:
+        folders:
+          - policy
+        featured_only: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: talks
     content:
       title: Talks
