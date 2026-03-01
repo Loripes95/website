@@ -2,7 +2,7 @@
 title: DNB Labour Market Network Event
 
 event: DNB Labour Market Network Event
-event_url: https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/
+event_url: https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/13-february-2026-dnb-labour-market-network-event/
 
 location: Amsterdam
 address:
