@@ -43,6 +43,8 @@ featured: true
 links:
 - name: "X Thread"
   url: https://x.com/LorenzoPesares1/status/1842131138065711158
+- name: RFB Discussion Paper
+  url: https://www.rfberlin.com/network-paper/duration-dependence-in-finding-a-job-applications-interviews-and-job-offers/
 url_pdf: https://www.dropbox.com/scl/fi/668xrtrx302k5dqtz2sq4/Lalive-et-al-2026-Duration-Dependence-in-Finding-a-Job.pdf?rlkey=ufbh0ntto00qpmbwiz8yd1un8&st=kfz86kn6&dl=0
 # url_pdf: https://www.dropbox.com/scl/fi/vgx4o46ghfqjg55yq9s4d/LOPZZ2024_DDJS.pdf?rlkey=5xs3axtuhsxxajzklbddi6692&st=mgt572eh&dl=0
 # url_pdf: https://www.dropbox.com/scl/fi/m38ij76dy5w4i1zxwincq/ZLOPZ2023_DDJS.pdf?rlkey=iyowt1zgublg93vqtcour13el&dl=0
