@@ -36,7 +36,7 @@ education:
       year: "2019-2025"
     - course: Junior SNSF Researcher
       institution: University of Lausanne
-      year: "2025-present"
+      year: "2025-2026"
     - course: Visiting Student Research Collaborator
       institution: Princeton University
       year: "2024"
