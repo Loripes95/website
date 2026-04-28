@@ -1,5 +1,5 @@
 ---
-title: "Short-time Work, its Replacement Rate and Labour Mobility"
+title: "Short-Time Work, its Replacement Rate and Labour Mobility"
 authors:
 - Gaetano Basso
 - Emanuele Ciani
