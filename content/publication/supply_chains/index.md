@@ -18,7 +18,7 @@ publishDate: "2024-01-16T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_Revise & Resubmit: Journal of Political Economy_"
 publication_short: ""
 
 abstract: 'We study how product specialization choices affect supply chain resilience. We propose a theory of supply chain formation in which only compatible inputs can be used in final production. Intermediate producers choose how much to specialize their goods, trading off higher value added against a smaller pool of compatible final producers. Final producers operate complex supply chains, requiring multiple complementary inputs. Specialization choices determine how quickly final producers can replace suppliers after disruptions, and thus supply chain resilience. In equilibrium, production inputs are over-specialized due to a novel _network externality_. Intermediate producers fail to internalize how their specialization choices affect the likelihood that final producers source all required inputs, and therefore the lost value added from complementary inputs if production halts. As a result, supply chains are more productive in normal times but less resilient than socially desirable. We characterize the optimal transfer that restores the efficient allocation and show that non-fiscal interventions, such as compatibility standards, are generally welfare-enhancing.'
