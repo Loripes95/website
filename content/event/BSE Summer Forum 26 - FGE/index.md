@@ -1,7 +1,7 @@
 ---
-title: BSE Summer Forum 2026 - Firms in the Global Economy (FGE) 
+title: BSE Summer Forum 2026 - Firms in the Global Economy 
 
-event: BSE Summer Forum 2026 - Firms in the Global Economy (FGE) 
+event: BSE Summer Forum 2026 - Firms in the Global Economy 
 event_url: https://bse.eu/workshop/firms-global-economy
 
 location: Barcelona
