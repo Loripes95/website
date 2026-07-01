@@ -2,7 +2,7 @@
 title: 'New RFBerlin Research Insight on "Duration Dependence in Finding a Job: Applications, Interviews, and Job Offers"'
 
 # Summary for listings and search engines
-summary: 'My paper "Duration Dependence in Finding a Job: Applications, Interviews, and Job Offers" (joint with Rafael Lalive, Aderonke Osikominu, Jeremy Zuchuat, and Josef Zweimüller) is featured in the Research Insights series by Rockwool Foundation Berlin. You can read the Research Insight [here](https://www.rfberlin.com/research-insights/why-job-finding-gets-harder/).'
+summary: 'My paper _Duration Dependence in Finding a Job: Applications, Interviews, and Job Offers_ (joint with Rafael Lalive, Aderonke Osikominu, Jeremy Zuchuat, and Josef Zweimüller) is featured in the Research Insights series by Rockwool Foundation Berlin! You can read the Research Insight [here](https://www.rfberlin.com/research-insights/why-job-finding-gets-harder/).'
 
 # Link this post with a project
 # projects: []
@@ -40,7 +40,7 @@ tags:
 #  - 教程
 
 ---
-Rockwool Foundation Berlin has published a new Research Insight based on my paper “Duration Dependence in Finding a Job: Applications, Interviews, and Job Offers”, joint with Rafael Lalive, Aderonke Osikominu, Jeremy Zuchuat, and Josef Zweimüller.
+Rockwool Foundation Berlin has published a new Research Insight based on my paper _Duration Dependence in Finding a Job: Applications, Interviews, and Job Offers_, joint with Rafael Lalive, Aderonke Osikominu, Jeremy Zuchuat, and Josef Zweimüller.
 
 The article presents new evidence on why job finding becomes harder the longer people remain unemployed. Using detailed administrative data from Switzerland that track job applications, interviews, and job offers over the unemployment spell, we show that more than half of the decline in job-finding chances is due to changing job seeker and employer behavior with unemployment duration, rather than only to differences in who remains unemployed.
 
