@@ -40,7 +40,7 @@ tags:
 #  - 教程
 
 ---
-Rockwool Foundation Berlin has published a new Research Insight based on my paper \“Duration Dependence in Finding a Job\: Applications, Interviews, and Job Offers”\, joint with Rafael Lalive, Aderonke Osikominu, Jeremy Zuchuat, and Josef Zweimüller.
+Rockwool Foundation Berlin has published a new Research Insight based on my paper “Duration Dependence in Finding a Job: Applications, Interviews, and Job Offers”, joint with Rafael Lalive, Aderonke Osikominu, Jeremy Zuchuat, and Josef Zweimüller.
 
 The article presents new evidence on why job finding becomes harder the longer people remain unemployed. Using detailed administrative data from Switzerland that track job applications, interviews, and job offers over the unemployment spell, we show that more than half of the decline in job-finding chances is due to changing job seeker and employer behavior with unemployment duration, rather than only to differences in who remains unemployed.
 
