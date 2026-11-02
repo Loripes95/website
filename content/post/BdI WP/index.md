@@ -2,7 +2,7 @@
 title: 'New Bank of Italy Working Papers on "The Concentration Channel of the Minimum Wage" and "Short-Time Work, its Replacement Rate, and Labour Mobility"'
 
 # Summary for listings and search engines
-summary: 'My papers _The Concentration Channel of the Minimum Wage_ (joint with Salvatore Lo Bello) and _Short-Time Work, its Replacement Rate, and Labour Mobility_ (joint with Gaetano Basso, Emanuele Ciani, and Francesco Manaresi) are featured in the latest Bank of Italy Working Papers! Press [here](https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1547/en_tema_1547.pdf) if you are interested in the competitive effects of the minimum wage, and [here](https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1544/en_tema_1544.pdf) to know more about the reallocation effects of short-time work.'
+summary: 'My papers _The Concentration Channel of the Minimum Wage_ (joint with Salvatore Lo Bello) and _Short-Time Work, its Replacement Rate, and Labour Mobility_ (joint with Gaetano Basso, Emanuele Ciani, and Francesco Manaresi) are featured in the latest Bank of Italy Working Papers series! Press [here](https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1547/en_tema_1547.pdf) if you are interested in the competitive effects of the minimum wage, and [here](https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1544/en_tema_1544.pdf) to know more about the reallocation effects of short-time work.'
 
 # Link this post with a project
 # projects: []
