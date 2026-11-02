@@ -23,7 +23,7 @@ publishDate: "2024-09-23T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: This paper studies the impact of the short-time work (STW) replacement rate on workers’ job-to-job mobility. Exploiting a discontinuity in the Italian STW schedule and matched employer–employee data, we show that a 10-percentage-point increase in the replacement rate raises the probability of remaining with the current employer by 3%, reducing job-to-job flows. The effect is driven by low-ability workers, whose transitions to higher-paying firms decline, implying a deterioration in workforce quality in STW firms. We develop a model to rationalise these results and derive an optimal STW formula. The fiscal externality is positive but smaller than for unemployment benefits.
+abstract: This paper studies the impact of the short-time work (STW) replacement rate on workers’ job-to-job mobility. Exploiting a discontinuity in the Italian STW benefit schedule and matched employer-employee data, we show that a 10-percentage-point increase in the replacement rate raises job retention by 3 per cent, reducing job-to-job flows. The effect is driven by low-ability workers, who are less likely to move to higher-paying firms, suggesting deteriorating workforce quality among firms relying on STW. We develop a model to rationalise these results and derive an optimal STW benefit formula. The fiscal externality is positive but smaller than for unemployment benefits.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -34,7 +34,9 @@ categories:
 featured: true
 
 links:
-# url_pdf: https://www.dropbox.com/scl/fi/5977mb6cz5811jzsijpi5/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=jjtbqn685l4k022j4m89p86xx&e=1&st=qdl390t9&dl=0
+- name: Bank of Italy Working Paper
+  url: https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1544/en_tema_1544.pdf
+url_pdf: https://www.dropbox.com/scl/fi/gcjrw4eopu93kggtjyu7z/Basso-Ciani-Manaresi-Pesaresi-Short-Time-Work-Its-Replacement-Rate-and-Labour-Mobility.pdf?rlkey=7nns5begs3iwe3xtr1n59smwo&st=02k81q49&dl=0
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
