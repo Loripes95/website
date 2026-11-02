@@ -38,6 +38,8 @@ categories:
 featured: true
 
 links:
+- name: "Bank of Italy Working Paper"
+  url: "https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1547/en_tema_1547.pdf"
 - name: "X Thread"
   url: https://x.com/LorenzoPesares1/status/1859957294181847045
 url_pdf: https://www.dropbox.com/scl/fi/5977mb6cz5811jzsijpi5/JMP-Lorenzo-Pesaresi-The-Concentration-Channel-of-the-Minimum-Wage.pdf?rlkey=jjtbqn685l4k022j4m89p86xx&e=1&st=qdl390t9&dl=0
