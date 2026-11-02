@@ -3,8 +3,9 @@ title: "Specialization, Complexity, and Resilience in Supply Chains"
 authors:
 - Alessandro Ferrari
 - admin
-author_notes:
-- "[Website](https://sites.google.com/view/aferrari)"
+# author_notes:
+# - "[Website](https://sites.google.com/view/aferrari)"
+# -
 date: "2026-01-27T00:00:00Z"
 doi: ""
 
